@@ -3,6 +3,7 @@ import logo from "../../assets/images/eth.png";
 import { Link } from "react-router-dom";
 import { FaTelegram, FaTwitter } from "react-icons/fa";
 
+// footer
 const Footer = () => {
   return (
     <div className="pb-4 pt-10">
